@@ -6,7 +6,6 @@ server:
 wechat:
   config:
     #配置一个文字的模板ID
-    singleTemplateId: 
     template:
       #早安模板
       morningTemplate:
@@ -23,17 +22,17 @@ wechat:
             title: Good morning,honey
             #你们的相遇时间
             meetDate: '2018-09-01'
-            city: 平城区
+            city: 大同市
             #居住地点，高德地图api下载查询 https://lbs.amap.com/api/webservice/download
             cityCode: 140213
             constellation: 摩羯座
            #把‘填写你的需要特定配置的微信用户号’覆盖位微信用户ID，可以对照正确填写好的配置示例，多用户可以按照格式继续添加下去
-          填写你的需要特定配置的微信用户号:
-            title: 
-            meetDate: 
-            city: 
-            cityCode: 
-            constellation: 
+          填写你的需要特定配置的微信用户号: Q15735180402
+            title: sweetheart
+            meetDate: '2004-12-26'
+            city: 太原市
+            cityCode: 140109
+            constellation: 巨蟹座
       #颜文字模板
       emoticonsTemplate:
         templateId: j0SJLFOqcfqHiffZGz0X4b0ZRXh-Jnp_sJ0XtbLFWdY
