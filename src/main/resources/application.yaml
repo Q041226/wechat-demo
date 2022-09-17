@@ -23,7 +23,7 @@ wechat:
             title: Good morning,honey
             #你们的相遇时间
             meetDate: '2018-09-01'
-            city: 大同市
+            city: 大同
             #居住地点，高德地图api下载查询 https://lbs.amap.com/api/webservice/download
             cityCode: 140213
             constellation: 摩羯座
@@ -31,7 +31,7 @@ wechat:
           填写你的需要特定配置的微信用户号: oMkqC6otrLa5greCmThsep_0sYYU
             title: sweetheart
             meetDate: '2004-12-26'
-            city: 太原市
+            city: 太原
             cityCode: 140109
             constellation: 巨蟹座
       #颜文字模板
