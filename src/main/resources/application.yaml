@@ -24,7 +24,7 @@ wechat:
             meetDate: '2018-09-01'
             city: 大同
             #居住地点，高德地图api下载查询 https://lbs.amap.com/api/webservice/download
-            cityCode: 140213
+            cityCode: 0352
             constellation: 摩羯座
           #把‘填写你的需要特定配置的微信用户号’覆盖位微信用户ID，可以对照正确填写好的配置示例，多用户可以按照格式继续添加下去
           填写你的需要特定配置的微信用户号:
